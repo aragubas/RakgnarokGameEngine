@@ -1,2 +1,2 @@
-# TicTacToe C++
-Example project made with RakgnarokGameEngine for learning purposes.
+# Rakgnarok Game Engine
+SDL2 powered game engine made for learning purposes.
