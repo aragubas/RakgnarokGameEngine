@@ -1,0 +1,30 @@
+// ###################################################
+// Settings file for Rakgnarok Game Engine by Aragubas
+// ###################################################
+// >Instructions:
+// 
+// All parameters name starts with an upper case letter, boolean values are written as "true" or "false" in lower case.
+// All lines starting with "//" are comment lines and are ignored.
+//
+// >Available parameters:
+//
+// Graphics
+//   -> Vsync [bool], HardwareAcceleration [bool]
+//
+// Sound
+//  -> SoundEnabled [bool]
+// 
+// Debug
+//   -> RendererFlags [bool], LogLevel [int] (-1 = None, 0 = Info, 1 = Warning)
+
+
+// Graphics Settings
+Graphics.Vsync: true
+Graphics.HardwareAcceleration: true
+
+// Sound Settings
+Sound.Enabled: false
+
+// Debug Settings
+Debug.RendererFlags: true
+Debug.LogLevel: 1
